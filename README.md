@@ -1,5 +1,5 @@
 # 💫 About Me:
-(^w^) For real, you don’t wanna read about me—<br>and I don’t really have much to say anyway.<br>(>///<) I use Hyprland, btw.<br><br> 🥸Fun fact: She said I’m just a freak...... 
+(^w^) For real, you don’t wanna read about me—<br>and I don’t really have much to say anyway.<br>(>///<) I use Hyprland, btw.<br><br> 🥸Fun fact: She said I’m just a freak....... 
 who is good with colors.<br>
 
 
