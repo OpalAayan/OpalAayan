@@ -14,7 +14,7 @@ who is good with colors.<br>
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=OpalAayan&theme=vision-friendly-dark&hide_border=true&show_icons=true&count_private=true" alt="OpalAayan Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=OpalAayan&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="OpalAayan Stats" />
 
 <br/>
 
@@ -35,3 +35,4 @@ who is good with colors.<br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote" />
 
 </div>
+
