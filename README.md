@@ -18,13 +18,16 @@ who is good with colors.<br>
 
 <br/>
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OpalAayan&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+
+<br/>
+
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=OpalAayan&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed" />
 
 <br/>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote" />
 
 </div>
-
