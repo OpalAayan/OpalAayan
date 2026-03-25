@@ -11,8 +11,6 @@ who is good with colors.<br>
 
 # 📊 GitHub Stats
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=OpalAayan&theme=vision-friendly-dark&hide_border=true" alt="Streak" />
-
 <br/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OpalAayan&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
